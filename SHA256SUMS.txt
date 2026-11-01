@@ -1,0 +1,2 @@
+89149c678b1710bf6cf825ff4257bf00a50938b49e3989add8cad5ca0eb91156  wholphin-2026-11-01-1.0.2-20-g38a9f5ca-armeabi-v7a.apk
+435ce1fad8c638335e82fc1fef38276dae75a22bfa7cc390bcb75a1aa1d0ad47  wholphin-2026-11-01-1.0.2-20-g38a9f5ca-universal-arm.apk
